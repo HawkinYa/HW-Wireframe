@@ -1,0 +1,30 @@
+body {
+    font-family: "Helvetica";
+    color: gray;
+    font-size: 18px;
+}
+
+#header1 {
+    background: white;
+}
+
+#nav1 {
+    background: white;
+}
+
+#section1 {
+    background: white;
+}
+
+#aside1 {
+    background: white;
+}
+
+#footer1 {
+    background: white;
+}
+
+#article {
+    color: white;
+    background: gray;
+}
